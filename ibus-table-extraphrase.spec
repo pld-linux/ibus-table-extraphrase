@@ -1,7 +1,7 @@
 Summary:	Extra phrase for ibus-table
 Name:		ibus-table-extraphrase
 Version:	1.2.0.20100305
-Release:	0.1
+Release:	1
 License:	GPL v3+
 Group:		Libraries
 Source0:	http://ibus.googlecode.com/files/%{name}-%{version}.tar.gz
