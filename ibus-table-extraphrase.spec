@@ -5,9 +5,10 @@ Version:	1.3.9.20110826
 Release:	1
 License:	GPL v3+
 Group:		Libraries
+#Source0Download: https://github.com/acevery/ibus-table-extraphrase/releases
 Source0:	http://ibus.googlecode.com/files/%{name}-%{version}.tar.gz
 # Source0-md5:	289da050912045fe59ab525910391f6f
-URL:		http://code.google.com/p/ibus/
+URL:		https://github.com/acevery/ibus-table-extraphrase
 BuildRequires:	ibus-table-devel >= 1.1.0
 BuildRequires:	pkgconfig
 Requires:	ibus-table > 1.1.0
